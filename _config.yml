@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Abel Sapirstein"
 title_separator          : "-"
 name                     : &name "Abel Sapirstein"
 description              : &description "personal description"
@@ -29,7 +29,7 @@ author:
   location         : "Atlanta, GA"
   employer         : "Georgia Tech"
   uri              : # URL
-  email            : 'asapirstein3@gatech.edu' # use 'yourname AT yourdomain DOT com' to avoid spam
+  email            : 'asapirstein 3 AT gatech DOT edu' # use 'yourname AT yourdomain DOT com' to avoid spam
 
   # Academic websites
   academia         : # URL
