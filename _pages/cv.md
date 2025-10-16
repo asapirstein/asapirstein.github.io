@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Stay Tuned! This CV is under construction.
-
-
 Education
 ======
 * Ph.D in Operations Reasearch, Georgia Institute of Technology, 2027 (expected)
@@ -29,7 +26,7 @@ Awards and Honors
 ======
 * Seth Bonder Scholarship for Applied Operations Research in Health Services -**National Award**, October 2025
 * National Defense Science and Engineering Graduate Fellowship (NDSEG) -**National Award**, July 2023 - June 2026
-* National Science Graduate Research Fellowship Program (declined for NDSEG) -**National Award** , July 2023 - June 2026
+* National Science Graduate Research Fellowship (declined for NDSEG) -**National Award** , July 2023 - June 2026
 * George Family Fellowship - at Georgia Institute of Technology AY 2023-24, 2024-25
 * Thomas J. Watson Fellowship (accepted 2022) -**National Award** Academic Year 2022-2023
 * Ernst and Young HCC Scholar at Georgia Institute of Technology Academic Year 2021-2022
