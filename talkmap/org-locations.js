@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Designing Tertiary Cancer Services Under Burden Uncertainty<br />Institute for Operations Research and Management Sciences Annual Confrence; Seattle WA, USA",
+    47.580138,
+    -122.3273036
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "WiscProf<br />WiscProf; Madison WI, USA",
+    43.07469,
+    -89.3841663
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Improving Equity in Healthcare Access Through Network Design: A Case Study of Specialist Cancer Care in Rwanda<br />Institute for Operations Research and Management Sciences Healthcare Confrence; Toronto ON, CA",
+    43.6657113,
+    -79.3939149
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Paving the Way for More Accessible Cancer Care in Low-Income Countries with Optimization<br />Institute for Operations Research and Management Sciences Annual Confrence; Atlanta GA, USA",
+    33.738743,
+    -84.3589885
   ]
 ];
